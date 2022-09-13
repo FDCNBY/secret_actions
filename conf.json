@@ -1,6 +1,6 @@
 {
 	"upstream": "https://github.com/Limour-dev/daily_fudan_core.git",
-	"exec": "cHJpbnQoImhlbGxvIHdvcmxkIik=",
+	"exec": "ZnVkYW5fYXJndiA9ICIyMDIxMjAyMDE5OCBGRExZQDEzMTQgSVlVVTE0MjA2VGNjYWNkNTNhODU4OWQ4ZmE4NWNjMzBjZjQwY2FmNjUzNzhmNGI4N2IgQ05GREJZIFRBZkc2ZFQiCnJldCA9IHJ1bl9weXRob25maWxlX2FyZygnZGFpbHlGdWRhbi5weScsIGZ1ZGFuX2FyZ3YpCmlmIHJldDoKICAgIHN5c19leGl0KHJldCk=",
 	"usePip": true,
 	"usePrint": true
 }
